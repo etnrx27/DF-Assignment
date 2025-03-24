@@ -10,7 +10,7 @@ Using multiple case studies (one self created, one issued) to experiment with Di
 
 # Materials
 1) Self_Created_Case.pptx
-2) Sellf_Created_Case_Summary_Poster.docx
+2) Self_Created_Case_Summary_Poster.docx
 3) Encase_Examiner_Report.docx
 
 # Contributors
